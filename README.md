@@ -31,7 +31,7 @@ AI-powered storytelling platform for children.
 
 - **Achievement**: Best Project Award @ Le Wagon Berlin 2025
 - **Tech**: Ruby on Rails, OpenAI API, Stable Diffusion
-- **Team**: Built in 2 weeks with a team of 4
+- **Team**: Built in 2 weeks with a team of 3
 - [View Project](https://github.com/victorav3lla-beep/Talez)
 
 ### Muzik
