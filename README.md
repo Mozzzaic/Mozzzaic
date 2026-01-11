@@ -11,7 +11,8 @@ I build web applications that solve real problems. After a decade in sales, I un
 ## Featured Projects
 
 ### Phase: Radar
-![Phase Radar](assets/phase-radar.png)
+<img src="assets/phase-radar.png" width="600" alt="Phase Radar">
+
 Music analysis platform for DJs. Aggregates data from Spotify, YouTube, and Bandcamp to help discover hidden tracks.
 
 - **Why I built it**: Solving my own frustration identifying unknown tracks in clubs
@@ -20,7 +21,8 @@ Music analysis platform for DJs. Aggregates data from Spotify, YouTube, and Band
 - [View Project](https://github.com/Mozzzaic/phase-radar)
 
 ### Terminal Impact
-![Terminal Impact](assets/terminal-impact.png)
+<img src="assets/terminal-impact.png" width="600" alt="Terminal Impact">
+
 VS Code extension for developers.
 
 - **Status**: Published on VS Code Marketplace
