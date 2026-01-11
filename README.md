@@ -16,7 +16,8 @@ Music analysis platform for DJs. Aggregates data from Spotify, YouTube, and Band
 - **Why I built it**: Solving my own frustration identifying unknown tracks in clubs
 - **Tech**: Node.js, React, Vite, PostgreSQL
 - **Scale**: 140+ commits, used by DJs in Berlin's electronic music scene
-- [View Project](https://github.com/Mozzzaic/phase-radar) <br> <img src="assets/phase-radar.png" width="200" alt="Phase Radar">
+- [View Project](https://github.com/Mozzzaic/phase-radar)
+- <br> <img src="assets/phase-radar.png" width="200" alt="Phase Radar">
 
 ### Terminal Impact
 VS Code extension for developers.
@@ -24,7 +25,8 @@ VS Code extension for developers.
 - **Status**: Published on VS Code Marketplace
 - **Tech**: TypeScript, VS Code Extension API
 - **Impact**: Shipped and available for real users
-- [View on Marketplace](https://github.com/Mozzzaic/vscode-terminal-impact-highlighter-v1) <br> <img src="assets/terminal-impact.png" width="200" alt="Terminal Impact">
+- [View on Marketplace](https://github.com/Mozzzaic/vscode-terminal-impact-highlighter-v1)
+- <br> <img src="assets/terminal-impact.png" width="200" alt="Terminal Impact">
 
 ### Talez
 AI-powered storytelling platform for children.
