@@ -11,6 +11,7 @@ I build web applications that solve real problems. After a decade in sales, I un
 ## Featured Projects
 
 ### Phase: Radar
+![Phase Radar](assets/phase-radar.png)
 Music analysis platform for DJs. Aggregates data from Spotify, YouTube, and Bandcamp to help discover hidden tracks.
 
 - **Why I built it**: Solving my own frustration identifying unknown tracks in clubs
@@ -19,6 +20,7 @@ Music analysis platform for DJs. Aggregates data from Spotify, YouTube, and Band
 - [View Project](https://github.com/Mozzzaic/phase-radar)
 
 ### Terminal Impact
+![Terminal Impact](assets/terminal-impact.png)
 VS Code extension for developers.
 
 - **Status**: Published on VS Code Marketplace
@@ -49,7 +51,7 @@ After 10 years in sales, including ranking Top 3 out of 500+ salespeople at PAPR
 
 **What I bring to the table:**
 - Business thinking applied to technical decisions
-- Clear communication with non-technical stakeholders  
+- Clear communication with non-technical stakeholders
 - Understanding of ROI, customer needs, and project delivery
 - Client relationship management from enterprise-level accounts
 
@@ -67,9 +69,9 @@ After 10 years in sales, including ranking Top 3 out of 500+ salespeople at PAPR
 
 ## Get in Touch
 
-📍 Based in Berlin | Open to freelance & full-time opportunities  
-🌐 Portfolio: [davidpinheiro.dev](https://davidpinheiro.dev)  
-💼 LinkedIn: [david-pinheiro-berlin](https://linkedin.com/in/david-pinheiro-berlin)  
+📍 Based in Berlin | Open to freelance & full-time opportunities
+🌐 Portfolio: [davidpinheiro.dev](https://davidpinheiro.dev)
+💼 LinkedIn: [david-pinheiro-berlin](https://linkedin.com/in/david-pinheiro-berlin)
 📧 david.pinheiro.d@gmail.com
 
 **Languages**: English, French, Portuguese, Spanish
