@@ -15,7 +15,7 @@ Music analysis platform for DJs. Aggregates data from Spotify, YouTube, and Band
 
 - **Why I built it**: Solving my own frustration identifying unknown tracks in clubs
 - **Tech**: Node.js, React, Vite, PostgreSQL
-- **Scale**: 140+ commits, used by DJs in Berlin's electronic music scene
+- **Scale**: 200+ commits, used by DJs in Berlin's electronic music scene
 - [View Project](https://github.com/Mozzzaic/phase-radar)
 
 ### Terminal Impact
