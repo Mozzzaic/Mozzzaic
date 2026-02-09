@@ -1,6 +1,6 @@
 # David Pinheiro
 
-**Full-Stack Developer | 10 Years Business Background | Berlin**
+**Full-Stack Developer | +10 Years Business Background | Berlin**
 
 I build web applications that solve real problems. After a decade in sales, I understand what users need and how to communicate with stakeholders.
 
