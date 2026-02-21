@@ -4,7 +4,7 @@
 
 I build web applications that solve real problems. After a decade in sales, I understand what users need and how to communicate with stakeholders.
 
-**Tech Stack**: JavaScript, TypeScript, React, Node.js, Ruby on Rails, PostgreSQL, HTML/CSS, Git
+**Tech Stack**: JavaScript, TypeScript, React, Node.js, NestJs PostgreSQL, HTML/CSS, Git
 
 ---
 
