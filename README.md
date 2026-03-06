@@ -29,7 +29,7 @@ VS Code extension for developers.
 ### Talez
 AI-powered storytelling platform for children.
 
-- **Achievement**: Best Project Award @ Le Wagon Berlin 2025
+- **Achievement**: Best Project Award @ Le Wagon Berlin 
 - **Tech**: Ruby on Rails, OpenAI API, Stable Diffusion
 - **Team**: Built in 2 weeks with a team of 3
 - [View Project](https://github.com/victorav3lla-beep/Talez)
