@@ -10,7 +10,9 @@ I build web applications that solve real problems. After a decade in sales, I un
 
 ## Featured Projects
 
-### Phase: Radar
+### Client Work
+
+#### Phase: Radar
 Music analysis platform for DJs. Aggregates data from Spotify, YouTube, and Bandcamp to help discover hidden tracks.
 
 - **Why I built it**: Solving my own frustration identifying unknown tracks in clubs
@@ -18,7 +20,14 @@ Music analysis platform for DJs. Aggregates data from Spotify, YouTube, and Band
 - **Scale**: 200+ commits, used by DJs in Berlin's electronic music scene
 - [View Project](https://github.com/Mozzzaic/phase-radar)
 
-### Terminal Impact
+#### Château Perché 2027
+Official website for a French music festival, built under real performance and deadline constraints.
+
+- **Status**: In progress, not yet deployed
+- **Tech**: Next.js, React, Tailwind CSS, Vercel
+- [View Project](https://davidpinheiro.dev/#projects)
+
+#### Terminal Impact
 VS Code extension for developers.
 
 - **Status**: Published on VS Code Marketplace
@@ -26,15 +35,23 @@ VS Code extension for developers.
 - **Impact**: Shipped and available for real users
 - [View on Marketplace](https://github.com/Mozzzaic/vscode-terminal-impact-highlighter-v1)
 
-### Talez
+#### Hinterhof Coffee
+Website for a Berlin coffee shop.
+
+- **Status**: Delivered, client launch pending
+- **Tech**: Next.js, React, TypeScript, Tailwind CSS, Vercel
+- [View Project](https://davidpinheiro.dev/#projects)
+
+### Experiments & Learning
+
+#### Talez
 AI-powered storytelling platform for children.
 
 - **Achievement**: Best Project Award @ Le Wagon Berlin 
 - **Tech**: Ruby on Rails, OpenAI API, Stable Diffusion
-- **Team**: Built in 2 weeks with a team of 3
 - [View Project](https://github.com/victorav3lla-beep/Talez)
 
-### Muzik
+#### Muzik
 Music discovery and playlist sharing platform.
 
 - **Tech**: Ruby on Rails, Spotify API
@@ -45,7 +62,7 @@ Music discovery and playlist sharing platform.
 
 ## Background
 
-After 10 years in sales, including ranking Top 3 out of 500+ salespeople at PAPREC GROUP, I transitioned to software development through Le Wagon Berlin (2025).
+After 10 years in sales, including ranking Top 3 out of 500+ salespeople at PAPREC GROUP, I transitioned to software development through Le Wagon Berlin (2023).
 
 **What I bring to the table:**
 - Business thinking applied to technical decisions
@@ -72,4 +89,4 @@ After 10 years in sales, including ranking Top 3 out of 500+ salespeople at PAPR
 💼 LinkedIn: [david-pinheiro-berlin](https://linkedin.com/in/david-pinheiro-berlin)
 📧 david.pinheiro.d@gmail.com
 
-**Languages**: English, French, Portuguese, Spanish
+**Languages**: French (native), English (professional), Portuguese (advanced), German (basic)
